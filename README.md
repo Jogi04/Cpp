@@ -1,2 +1,2 @@
-# Cpp
-collection of useful c++ programs
+# C++
+This repository contains useful C++ programs
